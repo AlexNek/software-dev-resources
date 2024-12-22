@@ -28,7 +28,7 @@ These tests are done during the 'Testing' phase of the Software Development Life
 
 ## User Interface (UI) Tests
 
-*   **Why they are important:** UI tests ensure that the user interface works correctly and is responsive and easy to use.
+*   **Why they are important:** UI tests ensure that the user interface functions correctly and responds well.
 *   **Focus:** The user interface elements and their interactions.
 *   **Goal:** Verify that the UI behaves as expected and that users can interact with it effectively.
 *   **Scope:** Specific UI elements, or entire screens.

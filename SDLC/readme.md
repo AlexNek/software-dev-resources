@@ -1,4 +1,5 @@
 # Building Software Right: It's More Than Just Coding
+**[German version](https://github.com/AlexNek/Blazor-for-You/blob/master/ForDevelopers/readme-de.md)**
 
 ## Overview
 
@@ -7,6 +8,36 @@ So, you're trying to **understand** software development these days, right? It�
 This article will cover the key parts of current software development, showing how the Software Development Life Cycle (SDLC) is important. We will discuss why it’s important to **identify** the problem you’re solving, adopt an agile way of working, why clean code is important, and the importance of DevOps. Finally, we will connect everything by focusing on the user, that software development is a continuous process, and how to complete everything.
 
 If you're an **experienced developer**, you likely know most of this already. This is mainly for project managers who are **facing difficulties** with software development but aren't exactly sure where to start.
+
+## Manager's Checklist
+
+Use this checklist to evaluate your software development process. If you are consistently answering "no" to these questions, you probably need to improve your process:
+
+-   **Understanding the Problem:**
+    - Do we spend enough time to understand the real needs of our users, or are we focusing only on the requests?
+    - Are we including users in the early stages of the process?
+-   **Planning and Iteration:**
+    - Do we plan the work in short cycles, allowing us to adapt to changes?
+    - Are we flexible and ready to adjust our cource when new information or feedback is received?
+-   **Writing Code:**
+    -   Are we making sure the code is clean, well-documented, easy to read and maintainable?
+    -   Are we doing code reviews on a regular basis?
+    - Are we effectively using version control by committing code changes frequently and using branches for different features?
+-   **Testing:**
+    - Are we testing early and often to find bugs, before our users do?
+    - Are we using different kinds of tests (unit, integration, user acceptance)?
+    - Are we automating as much of the testing process as possible to ensure faster and more reliable results?
+-   **Collaboration:**
+    - Do developers, product owners, designers, and users work together as a unit, or are they separated from each other?
+    - Do we have clear communication and regular meetings?
+-   **Deployment and Monitoring:**
+    -   Are we automating the deployment process?
+    -   Are we monitoring the software and servers after deployment?
+-   **Learning and Improvement:**
+    - Are we reflecting on what went well and what could have been improved?
+    - Are we always learning new technologies and practices to ensure that our development process is always improving?
+ 
+A majority of "no" answers indicates a need for action. Let's look at how you can improve your processes
 
 ## Starting With the "Why"
 
@@ -122,34 +153,6 @@ Now that we've covered the key aspects of modern development, let’s explore ho
 -   **Going Wrong:**
     -  **Repeating Mistakes:** Repeating old mistakes; not adapting to new technologies; and continuing with the same old ways. It's like driving the same route every day even if there is a better option available.
 
-## Manager's Checklist
-
-Use this checklist to evaluate your software development process. If you are consistently answering "no" to these questions, you probably need to improve your process:
-
--   **Understanding the Problem:**
-    - Do we spend enough time to understand the real needs of our users, or are we focusing only on the requests?
-    - Are we including users in the early stages of the process?
--   **Planning and Iteration:**
-    - Do we plan the work in short cycles, allowing us to adapt to changes?
-    - Are we flexible and ready to adjust our cource when new information or feedback is received?
--   **Writing Code:**
-    -   Are we making sure the code is clean, well-documented, easy to read and maintainable?
-    -   Are we doing code reviews on a regular basis?
-    - Are we effectively using version control by committing code changes frequently and using branches for different features?
--   **Testing:**
-    - Are we testing early and often to find bugs, before our users do?
-    - Are we using different kinds of tests (unit, integration, user acceptance)?
-    - Are we automating as much of the testing process as possible to ensure faster and more reliable results?
--   **Collaboration:**
-    - Do developers, product owners, designers, and users work together as a unit, or are they separated from each other?
-    - Do we have clear communication and regular meetings?
--   **Deployment and Monitoring:**
-    -   Are we automating the deployment process?
-    -   Are we monitoring the software and servers after deployment?
--   **Learning and Improvement:**
-    - Are we reflecting on what went well and what could have been improved?
-    - Are we always learning new technologies and practices to ensure that our development process is always improving?
-  
 
 ## Conclusion
 
