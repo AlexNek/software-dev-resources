@@ -1,5 +1,5 @@
 # Building Software Right: It's More Than Just Coding
-**[German version](https://github.com/AlexNek/software-dev-resources/blob/master/SDLC/readme.md)**
+**[German version](https://github.com/AlexNek/software-dev-resources/blob/master/SDLC/readme-de.md)**
 
 ## Overview
 
