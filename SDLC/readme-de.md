@@ -1,5 +1,5 @@
 # Software richtig entwickeln: Es ist mehr als nur Programmieren
-**[English Version](https://github.com/AlexNek/Blazor-for-You/blob/master/ForDevelopers/readme.md)**
+**[English Version](https://github.com/AlexNek/software-dev-resources/blob/master/SDLC/readme.md)**
 
 ## Überblick
 
